@@ -1,0 +1,14 @@
+body{
+    background-color:white ;
+}
+.box{
+    height: 400px;
+    width:500px;
+    border: 2px solid bisque;
+    background-color: bisque;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 600px;
+    display: grid;
+    place-content: center;
+}
